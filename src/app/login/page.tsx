@@ -53,7 +53,7 @@ export default function LoginPage() {
             <MessageCircle className="w-10 h-10 text-primary" />
           </div>
           <CardTitle className="text-2xl font-semibold tracking-tight">
-            PainelPro
+            PteroPanel
           </CardTitle>
           <CardDescription className="text-base">
             Entre para gerenciar seus serviços
